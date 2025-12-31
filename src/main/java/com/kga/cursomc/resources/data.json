@@ -1,0 +1,14 @@
+{
+  "categorias": [
+    { "id": 1, "nome": "Eletrônicos" },
+    { "id": 2, "nome": "Livros" }
+  ],
+  "produtos": [
+    { "id": 101, "nome": "Notebook", "categoriaId": 1 },
+    { "id": 102, "nome": "Kindle", "categoriaId": 2 }
+  ],
+  "clientes": [
+    { "id": 1001, "nome": "Alice", "email": "alice@email.com" },
+    { "id": 1002, "nome": "Bob", "email": "bob@email.com" }
+  ]
+}
